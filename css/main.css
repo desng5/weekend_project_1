@@ -170,21 +170,160 @@ h1 {
 
 
 /* eth */
-.scd_row_first_col{
-    border: 1px solid rgb(195, 255, 0);
-    width: 25%;
+
+/* NAVBAR */
+.ejh_first_navbar1{
+    display:flex ;
+    justify-content:space-around;
 }
-h1{
-    color: red;
+
+
+.ejh_first_img{
+    width: 11em;
+}
+/* JUMBOTRON */
+
+.ejh_breadcrumb_2{
+    color: black;
+}
+.ejh_second_button{
+    color: blue;
+}
+.ejh_first_list{
+    display: inline;
+}
+#ejh_head_img{
+    width: 60%;
+    height: 100%;
+}
+.ejh_nav_title{
+    color: black;
+}
+
+/* Top main section */
+.ejh_row_3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ejh_r3_col1{
+    text-align: center;
+}
+.ejh_r3_col2{
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+.cart_text{
+    text-align: center;
+}
+.card{
+    height: 10%;
+    width: 10%;
+}
+
+/* After the logos */
+
+.ejh_row_4{
+    border: 1px solid black;
+}
+.ejh_row4_col1_img{
+    width: 100%;
+}
+.ejh_r4_col2{
+    background-color: blue;
+    color: aliceblue;
+}
+
+/* Bottom Main */
+.ejh_row_6{
+    display: flex;
+    justify-content: space-around;
+}
+.ejh_r6_col1{
+    
+    display: flex;
+    justify-content: space-around;
+}
+.ejh_r6_col2{
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.ejh_r6_img1{
+    width: 7em;
+}
+.ejh_r6_img2{
+    width: 7em;
+}
+
+.ejh_row_7{
+    display: flex;
+    justify-content: center;
+}
+.ejh_r7_col1{
+    text-align: center;
+}
+.ejh_r7_col2{
+    text-align: center;
+}
+/* second part */
+.ejh_row_8{
+    display: flex;
+    justify-content: space-around;
+}
+.ejh_r8_col1{
+    
+    display: flex;
+    justify-content: space-around;
+}
+.ejh_r8_col2{
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.ejh_r8_img1{
+    width: 7em;
+}
+.ejh_r8_img2{
+    width: 7em;
+}
+
+.ejh_row_9{
+    display: flex;
+    justify-content: center;
+}
+.ejh_r9_col1{
+    text-align: center;
+}
+.ejh_r9_col2{
+    text-align: center;
+}
+
+/* FOOTER */
+.ejh_last_row{
+    background-color: rgb(39, 82, 255);
+    width: em;
+}
+.ejh_last_col{
+    text-align: center;
+    color: white;
+}
+.ejh_last_breadcrumb{
+    justify-content: center;
+    margin-top: 2em;
+    color: white;
 }
 
 
 
 
-
-
-
-
+/* ETHAN_2 */
 
 
 
